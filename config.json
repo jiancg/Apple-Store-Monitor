@@ -1,0 +1,9 @@
+{
+    "zip_code": "",
+    "radius": ,
+    "sku": "",
+    "webhook": "",
+    "test_webhook": true,
+    "send_webhooks": true,
+    "delay": 7000
+}
