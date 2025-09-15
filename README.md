@@ -1,12 +1,12 @@
 # Apple Store Monitor
 
-A Node.js script that monitors in-store Apple product availability (ex. iPhones, iPads) and sends real-time Discord notifications via Discord Webhook. Orginally developed during the global-chip shortage during COVID-19 to help users secure devices.
+A Node.js script that monitors in-store Apple product availability (ex. iPhones, iPads) and sends real-time Discord notifications via Discord. Orginally developed during the global-chip shortage during COVID-19 to help users secure devices.
 
 > ⚠️ This code is super outdated and may no longer work with Apple's current API
 
 ## Features
 - Configurable search based on zip code
-- Discord notifications for live updates
+- Discord webhook notifications for live updates
 - Lightweight CLI script
 
 ## Tech Stack
