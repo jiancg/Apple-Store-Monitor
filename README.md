@@ -34,3 +34,5 @@ npm install
 ```bash
 node monitor.js
 ```
+## Usage Example
+![Usage Example](https://github.com/jiancg/Apple-Store-Monitor/blob/main/sample-tracking.png?raw=true)
